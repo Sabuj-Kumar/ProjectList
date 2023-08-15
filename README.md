@@ -3,7 +3,7 @@
 3. [Spring local in app authenticaion](https://github.com/Sabuj-Kumar/springLocalSecurity)
 4. [Spring boot project](https://github.com/Sabuj-Kumar/JavaSpringboot)
 5. [SpringMvc(crud)](https://github.com/Sabuj-Kumar/Java_crud_complete)
-6. [Spring Relation mappign](https://github.com/Sabuj-Kumar/Java_Relationship)
+6. [Spring Relation mapping](https://github.com/Sabuj-Kumar/Java_Relationship)
 7. [LiveProject](https://play.google.com/store/apps/details?id=app.swoop.news)
 8. [flutte live project](https://play.google.com/store/apps/details?id=com.ostad.app&hl=en&gl=US)
 9. [flutte (Quran shikkha)](https://play.google.com/store/apps/details?id=com.quranshikkha.app)
