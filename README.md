@@ -8,7 +8,7 @@
 9. [Spring_Security_Registration_Login](https://github.com/Sabuj-Kumar/springBootSecurityRegisterAndLogin)
 10. [Spring_backend_restfull_api](https://github.com/Sabuj-Kumar/JavaSpringbootFullRestApi)
 11. [LiveProject](https://play.google.com/store/apps/details?id=app.swoop.news)
-12. [flutte live project](https://play.google.com/store/apps/details?id=com.ostad.app&hl=en&gl=US)
-13. [flutte (Quran shikkha)](https://play.google.com/store/apps/details?id=com.quranshikkha.app)
+12. [flutter live project](https://play.google.com/store/apps/details?id=com.ostad.app&hl=en&gl=US)
+13. [flutter (Quran shikkha)](https://play.google.com/store/apps/details?id=com.quranshikkha.app)
 14. [BankingApp(Flutter)](https://github.com/Sabuj-Kumar/aasaan_capital)
 
